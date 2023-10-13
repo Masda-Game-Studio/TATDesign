@@ -1,0 +1,3 @@
+We will also have a housing system but it won't be like archeage where there is a limited area and only those who grab it first can have it.
+The way i plan to do it is to make it instanced (similar to dungeons) so everyone can have a house
+And another note about the game is that for the online version the game will be reset each 3 months and you will start over again, BUT you will keep every cosmetic items you purchased or won plus all of the achievements you got.
